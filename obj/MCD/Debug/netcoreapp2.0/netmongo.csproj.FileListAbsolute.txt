@@ -1,0 +1,10 @@
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\bin\MCD\Debug\netcoreapp2.0\netmongo.deps.json
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\bin\MCD\Debug\netcoreapp2.0\netmongo.runtimeconfig.json
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\bin\MCD\Debug\netcoreapp2.0\netmongo.runtimeconfig.dev.json
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\bin\MCD\Debug\netcoreapp2.0\netmongo.dll
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\bin\MCD\Debug\netcoreapp2.0\netmongo.pdb
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\obj\MCD\Debug\netcoreapp2.0\netmongo.csproj.CoreCompileInputs.cache
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\obj\MCD\Debug\netcoreapp2.0\netmongo.AssemblyInfoInputs.cache
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\obj\MCD\Debug\netcoreapp2.0\netmongo.AssemblyInfo.cs
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\obj\MCD\Debug\netcoreapp2.0\netmongo.dll
+C:\Users\Adamutd\Desktop\mongo.net\netmongo\obj\MCD\Debug\netcoreapp2.0\netmongo.pdb
