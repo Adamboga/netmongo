@@ -17,6 +17,7 @@ namespace netmongo
                 { "age": "38"},
                 { "sex": "Male"}
             };
+        collection.InsertOne(document);
          }
     }
 }
