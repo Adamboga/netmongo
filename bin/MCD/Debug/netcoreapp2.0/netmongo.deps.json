@@ -1,18 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "d48d43038623dd1a80c4fb7a8eefebc9705ffd78"
+    "signature": "9941e5e9bebff3156ddfb2e304d722a9c567cf13"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "netmongo/1.0.0": {
         "dependencies": {
-          "MongoDB.Bson": "2.4.4",
-          "MongoDB.Driver": "2.4.4",
-          "MongoDB.Driver.Core": "2.4.4",
-          "MongoDB.Driver.GridFS": "2.4.4",
-          "mongocsharpdriver": "2.4.4"
+          "MongoDB.Driver": "2.4.4"
         },
         "runtime": {
           "netmongo.dll": {}
@@ -44,16 +40,6 @@
             "rid": "win",
             "assetType": "runtime"
           }
-        }
-      },
-      "mongocsharpdriver/2.4.4": {
-        "dependencies": {
-          "MongoDB.Bson": "2.4.4",
-          "MongoDB.Driver": "2.4.4",
-          "MongoDB.Driver.Core": "2.4.4"
-        },
-        "runtime": {
-          "lib/netstandard1.5/MongoDB.Driver.Legacy.dll": {}
         }
       },
       "MongoDB.Bson/2.4.4": {
@@ -88,16 +74,6 @@
         },
         "runtime": {
           "lib/netstandard1.5/MongoDB.Driver.Core.dll": {}
-        }
-      },
-      "MongoDB.Driver.GridFS/2.4.4": {
-        "dependencies": {
-          "MongoDB.Bson": "2.4.4",
-          "MongoDB.Driver": "2.4.4",
-          "MongoDB.Driver.Core": "2.4.4"
-        },
-        "runtime": {
-          "lib/netstandard1.5/MongoDB.Driver.GridFS.dll": {}
         }
       },
       "runtime.native.System/4.0.0": {
@@ -829,13 +805,6 @@
       "path": "microsoft.win32.registry/4.0.0",
       "hashPath": "microsoft.win32.registry.4.0.0.nupkg.sha512"
     },
-    "mongocsharpdriver/2.4.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eeuQB8XUe3YjJ/J7iCiFvnCi8PBHmXYgM+afNVln4jlTArFfA1n9uzV9bN1/LBV8s0XrvYYTG3G42qv8oCDsGg==",
-      "path": "mongocsharpdriver/2.4.4",
-      "hashPath": "mongocsharpdriver.2.4.4.nupkg.sha512"
-    },
     "MongoDB.Bson/2.4.4": {
       "type": "package",
       "serviceable": true,
@@ -856,13 +825,6 @@
       "sha512": "sha512-fVjXuQE5Qe2P38xz9wz5V0QhT54+ZT78/JUKMMbIXOKYVFgkzEOE7UU6ZsbC/AbR4lwGIpRQZoiv7wW3rJb3xQ==",
       "path": "mongodb.driver.core/2.4.4",
       "hashPath": "mongodb.driver.core.2.4.4.nupkg.sha512"
-    },
-    "MongoDB.Driver.GridFS/2.4.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/DbvI3emeOk5wrHQ8jHOVL716cnIwo2cMIp+KYMJ+jMKzapxW6SWXphYr+dvnQrmeEXw//ruWX3Gvop3jB7VCw==",
-      "path": "mongodb.driver.gridfs/2.4.4",
-      "hashPath": "mongodb.driver.gridfs.2.4.4.nupkg.sha512"
     },
     "runtime.native.System/4.0.0": {
       "type": "package",

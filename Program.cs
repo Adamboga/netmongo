@@ -12,12 +12,12 @@ namespace netmongo
             var database = client.GetDatabase("ppl");
             var collection = database.GetCollection<BsonDocument>("info");
 
-            var documnt = new BsonDocument{
-                { "name": "Adam"},
-                { "age": "38"},
-                { "sex": "Male"}
+            var info = new BsonDocument{
+                { "name", "Adam1"},
+                { "age", "38"},
+                { "sex", "Male"}
             };
-        collection.InsertOne(document);
+        collection.InsertOne(info);
          }
     }
 }
